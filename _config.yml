@@ -9,9 +9,15 @@ url: "https://rakshithtb.github.io/"
 github_username:  rakshithtb
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 search: false
 # Exclude from processing.
 # The following items will not be processed, by default.
