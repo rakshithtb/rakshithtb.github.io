@@ -1,7 +1,3 @@
-# ✨ About Me ✨
-
-
-
 **Passionate Software Engineer with 10+ years of experience in developing web applications and backend systems**
 
 _**Drupal | DevOps | Docker and Kubernetes | Acquia Triple Certified**_
